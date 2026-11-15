@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
 
-<h3 align="center">AI & Data Science | Python | Machine Learning | Deep Learning | Data Analytics | NLP | Generative AI</h3>
+<h3 align="center">AI & Data Science | Python | Machine Learning | Deep Learning | Data Analytics | Generative AI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer;Python+Developer;Computer+Vision+Enthusiast;Generative+AI+Learner;Building+Real-World+AI+Projects" />
