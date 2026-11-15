@@ -53,39 +53,15 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nitish-kumar-a6b7ba344/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-  <a href="https://github.com/dav-nitish/">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-  <a href="mailto:nitishbidhuri583@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dav-nitish&show_icons=true&theme=dracula&hide_border=false" height="160" />
-  <img src="https://streak-stats.demolab.com?user=SayemKhan1111&theme=dracula&hide_border=false" height="160" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dav-nitish&layout=compact&theme=dracula" height="160" />
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=dav-nitish&theme=dracula&column=4&margin-w=8&margin-h=8" />
+
+  <img src="https://img.shields.io/badge/Repositories-Active-00C853?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-Regular-2979FF?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Projects-AI%2FML-FF6D00?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Open%20Source-Learning-9C27B0?style=for-the-badge&logo=github" />
+
 </div>
 
 ---
@@ -95,24 +71,39 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SayemKhan1111/Sayem-Khan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SayemKhan1111/Sayem-Khan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SayemKhan1111/Sayem-Khan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SayemKhan1111/Sayem-Khan/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
+## 🌐 Connect With Me
 
-<!--
-**dav-nitish/dav-nitish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://www.linkedin.com/in/sayem-khan-3b5bb727a/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/SayemKhan1111">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+  &nbsp;
+  <a href="mailto:sayemkhanraqraq@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+  &nbsp;
+  <a href="https://sayemkhan1111.github.io/Sayem-Portfolio/">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=00f5d4&logoColor=black&style=for-the-badge" height="30" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🚀 Open to AI/ML Roles, collaborations and real-world AI projects</h3>
+
+<p align="center">
+  <a href="mailto:sayemkhanraqraq@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Work%20Together-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" width="100%"/>
