@@ -85,7 +85,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?usernamedav-nitish&theme=dracula&column=4&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app?username=dav-nitish&theme=dracula&column=4&margin-w=8&margin-h=8" />
 </div>
 
 ---
