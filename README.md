@@ -79,29 +79,29 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sayem-khan-3b5bb727a/">
+  <a href="https://www.linkedin.com/in/nitish-kumar-a6b7ba344/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
   </a>
   &nbsp;
-  <a href="https://github.com/SayemKhan1111">
+  <a href="https://github.com/dav-nitish/">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="30" />
   </a>
   &nbsp;
-  <a href="mailto:sayemkhanraqraq@gmail.com">
+  <a href="mailto:nitishbidhuri583@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" />
   </a>
   &nbsp;
-  <a href="https://sayemkhan1111.github.io/Sayem-Portfolio/">
+  <a href="https://dav-nitish.github.io/portfolio/">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=00f5d4&logoColor=black&style=for-the-badge" height="30" />
   </a>
 </div>
 
 ---
 
-<h3 align="center">🚀 Open to AI/ML Roles, collaborations and real-world AI projects</h3>
+<h3 align="center">🚀 Open to AI/ML Roles, Data Analytics collaborations and real-world AI projects</h3>
 
 <p align="center">
-  <a href="mailto:sayemkhanraqraq@gmail.com">
+  <a href="mailto:nitishbidhuri583@gmail.com">
     <img src="https://img.shields.io/badge/Let's%20Work%20Together-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
