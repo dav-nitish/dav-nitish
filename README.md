@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Nitish%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FData Science%20%7C%20Python%20%7C%20Data%20Analytics%20%7C%20Generative%20AI&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Nitish%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FData%20Science%20%7C%20Python%20%7C%20Data%20Analytics%20%7C%20Generative%20AI&descAlignY=55&descSize=18" />
 
 <h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
 
