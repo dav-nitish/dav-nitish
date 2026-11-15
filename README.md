@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Sayem%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Python%20%7C%20Computer%20Vision%20%7C%20Generative%20AI&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Nitish%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Python%20%7C%20Computer%20Vision%20%7C%20Generative%20AI&descAlignY=55&descSize=18" />
 
 <h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
 
@@ -56,13 +56,13 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sayem-khan-3b5bb727a/">
+  <a href="https://www.linkedin.com/in/nitish-kumar-a6b7ba344/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" />
   </a>
-  <a href="https://github.com/SayemKhan1111">
+  <a href="https://github.com/dav-nitish/">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="28" />
   </a>
-  <a href="mailto:sayemkhanraqraq@gmail.com">
+  <a href="mailto:nitishbidhuri583@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" />
   </a>
 </div>
