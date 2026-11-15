@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Nitish%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Python%20%7C%20Computer%20Vision%20%7C%20Generative%20AI&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Nitish%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FData Science%20%7C%20Python%20%7C%20Data%20Analytics%20%7C%20Generative%20AI&descAlignY=55&descSize=18" />
 
 <h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
 
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SayemKhan1111&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=dav-nitish&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,opencv,sklearn,fastapi,postgres,mysql,docker,git,github,postman" height="55" />
+  <img src="https://skillicons.dev/icons?i=python,react,javascript,tensorflow,opencv,sklearn,fastapi,postgres,mysql,docker,git,github,postman,airflow" height="55" />
 </div>
 
 ---
@@ -46,7 +46,7 @@
 
 ## 🎯 Current Focus
 
-- Building AI/ML projects for real-world use cases  
+- Building AI & Data Science projects for real-world use cases  
 - Learning FastAPI, Cloud AI and Model Deployment  
 - Improving Python, Machine Learning and Deep Learning fundamentals  
 - Exploring RAG, AI Agents and Automation Workflows  
@@ -72,12 +72,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SayemKhan1111&show_icons=true&theme=dracula&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dav-nitish&show_icons=true&theme=dracula&hide_border=false" height="160" />
   <img src="https://streak-stats.demolab.com?user=SayemKhan1111&theme=dracula&hide_border=false" height="160" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayemKhan1111&layout=compact&theme=dracula" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dav-nitish&layout=compact&theme=dracula" height="160" />
 </div>
 
 ---
@@ -85,7 +85,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=SayemKhan1111&theme=dracula&column=4&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app?usernamedav-nitish&theme=dracula&column=4&margin-w=8&margin-h=8" />
 </div>
 
 ---
