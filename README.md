@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Nitish%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FData%20Science%20%7C%20Python%20%7C%20Data%20Analytics%20%7C%20Generative%20AI&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Nitish%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FData%20Science%20%7C%20Python%20%7C%20Data%20Analytics%20%7C%20Generative%20AI&descAlignY=55&descSize=18" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
 
@@ -72,12 +72,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dav-nitish&show_icons=true&theme=dracula&hide_border=false" height="160" />
-  <img src="https://streak-stats.demolab.com?user=SayemKhan1111&theme=dracula&hide_border=false" height="160" />
+  <img src="https://vercel.app" height="160" alt="GitHub Stats" />
+  <img src="https://demolab.com" height="160" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dav-nitish&layout=compact&theme=dracula" height="160" />
+  <img src="https://vercel.app" height="160" alt="Top Languages" />
 </div>
 
 ---
@@ -85,7 +85,10 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=dav-nitish&theme=dracula&column=4&margin-w=8&margin-h=8" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </div>
 
 ---
@@ -93,26 +96,11 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SayemKhan1111/Sayem-Khan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SayemKhan1111/Sayem-Khan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SayemKhan1111/Sayem-Khan/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="github contribution snake" src="https://githubusercontent.com" width="100%">
 </picture>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
-
-<!--
-**dav-nitish/dav-nitish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" width="100%" />
