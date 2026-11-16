@@ -11,6 +11,15 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dav-nitish&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
+<p align="center">
+  <a href="https://dav-nitish.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🚀%20View%20My%20Portfolio-00f5d4?style=for-the-badge&logo=githubpages&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="mailto:nitishbidhuri123@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
