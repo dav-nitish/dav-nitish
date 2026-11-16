@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/🚀%20View%20My%20Portfolio-00f5d4?style=for-the-badge&logo=githubpages&logoColor=black" />
   </a>
   &nbsp;
-  <a href="mailto:nitishbidhuri123@gmail.com">
+  <a href="mailto:nitishbidhuri583@gmail.com">
     <img src="https://img.shields.io/badge/Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
